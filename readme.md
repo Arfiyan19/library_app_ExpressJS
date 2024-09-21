@@ -96,3 +96,9 @@ Fitur ini membantu Anda melacak buku-buku yang dikembalikan setelah batas waktu 
 Fitur ini memungkinkan Anda membedakan buku yang dikembalikan sesuai batas waktu dan yang melebihi batas waktu, memberikan informasi yang lebih rinci terkait status pengembalian.
 
 ![Pengembalian Sesuai dan Tidak Melebihi Batas Waktu](./screenshoot_library_app/peminjaman/pengembalian_sesuai_dan_tidak_melebihi_batas_waktu.png)
+
+##### <h5>Algoritma Soal Folder Algoritma</h5>
+
+##### Hasil
+
+![Algoritma soal hasil](./screenshoot_algoritma/hasil.png)
